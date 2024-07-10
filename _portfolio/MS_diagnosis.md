@@ -4,7 +4,6 @@ excerpt: "Implementation of various machine learning techniques to dectect MS in
 collection: portfolio
 ---
 The following PDF is a portfolio of different AI techniques that are commonly used in disease diagnosis. Whilst making this portfolio I developed important skills in Simple machine learning techniques such as SVM, KNN, t-SNE. Furthermore, I developed proficiency in more complex deep-learning techniques such as autoencoders, segmentation, transfer-learning, and data-aucgmentation for complex, customised CNN models.
-
 ## Embedded PDF
 
 <div class="pdf-container">
