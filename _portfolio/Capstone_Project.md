@@ -12,7 +12,7 @@ The following PDF is my Dissertation project that I completed in my final year a
 
 ## Link to PDF
 
-[View PDF](files/MS_diagnosis.pdf)
+[View PDF](files/Research_Paper.pdf)
 
 <style>
 .pdf-container {
