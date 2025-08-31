@@ -82,15 +82,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Cormac McCumiskey"
   avatar           : "Profile_pic2.png"
-  bio              : "Openendedness at Sakana AI"
-  location         : "Tokyo, Japan"
-  employer         : "Sakana AI"
+  bio              : "Consulting Associate at PwC"
+  location         : "Belfast, Northern Ireland"
+  employer         : "PwC"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "cmccumiskey@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,24 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "McCumiskey"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : "cormacmc"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
   wikipedia        :
 
 
